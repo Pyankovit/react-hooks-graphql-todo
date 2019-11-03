@@ -7,20 +7,15 @@ import { InMemoryCache } from "apollo-cache-inmemory";
 import gql from "graphql-tag";
 
 import "./index.css"
-import Button from "@material-ui/core/Button"
-import List from "@material-ui/core/List";
+import Button from "@material-ui/core/Button";
 import ListItem from "@material-ui/core/ListItem";
-import ListItemSecondaryAction from "@material-ui/core/ListItemSecondaryAction";
-import ListItemText from "@material-ui/core/ListItemText";
-import Checkbox from "@material-ui/core/Checkbox";
 import IconButton from "@material-ui/core/IconButton";
 import DeleteIcon from "@material-ui/icons/Delete";
-import CheckBoxIcon from '@material-ui/icons/CheckBox';
 import Typography from "@material-ui/core/Typography";
 import TextField from "@material-ui/core/TextField";
 import CheckCircleIcon from '@material-ui/icons/CheckCircle';
 import EditIcon from '@material-ui/icons/Edit';
-import Input from "@material-ui/core/Input"
+
 
 const client = new ApolloClient({
   link: new HttpLink({
