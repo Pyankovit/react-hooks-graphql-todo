@@ -2,9 +2,9 @@
 
 ## IMPORTANT!!!!!!!!!!!!!!!!!!!!!!!!!
 ## RUN ON CHROME WITHOUT CORS!!!!!!!!
-## READ BEFORE RUN!!!!!!!!!!!!!!!!!!!
+## READ BEFORE RUN!!!!!!!!!!!!!!!!!!!=>https://alfilatov.com/posts/run-chrome-without-cors/
 
-https://alfilatov.com/posts/run-chrome-without-cors/
+
 
 
 ![Alt text](/public/screen.jpg?raw=true "Optional Title")
