@@ -1,13 +1,33 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
+  font-family: 'Roboto', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+form{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.MuiListItem-root{
+  justify-content: center !important;
+}
+
+.todo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer{
+  position: static;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h2  {
+  min-width: 30em;
 }
