@@ -1,9 +1,22 @@
+
+
+## IMPORTANT!!!!!!!!!!!!!!!!!!!!!!!!!
+## RUN ON CHROME WITHOUT CORS!!!!!!!!
+## READ BEFORE RUN!!!!!!!!!!!!!!!!!!!
+
+https://alfilatov.com/posts/run-chrome-without-cors/
+
+
+![Alt text](/public/screen.jpg?raw=true "Optional Title")
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
-
+### `yarn install`
+then
 ### `yarn start`
 
 Runs the app in the development mode.<br />
