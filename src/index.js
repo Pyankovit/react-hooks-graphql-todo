@@ -70,7 +70,7 @@ function Todo() {
   const [editTodo] = useMutation(EDIT);
 
   if (loading) return <p>Loading...</p>;
-  if (error){window.location.href="https://alfilatov.com/posts/run-chrome-without-cors/"}  return <p>Error :(</p>;
+  if (error) return <p>Error :(</p>;
 
   return data.todos.map((todo, index) => {
     index++;
